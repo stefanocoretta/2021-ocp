@@ -167,6 +167,31 @@ class: center middle inverse
 
 ---
 
+# Little did we know
+
+We know very little about the inner workings of speech production and articulation (motor control).
+
+* Exploratory study of articulatory aspects of VC sequences in Italian and Polish.
+
+* Ultrasound Tongue Imaging.
+
+* Electroglottography.
+
+---
+
+# Articulatory correlates of voicing
+
+* Aerodynamic Voicing Constraint.
+
+* Tongue Root Advancement to overcome increased intra-oral pressure.
+
+---
+
+
+
+
+---
+
 class: center middle inverse
 
 # VOWEL NASALISATION
