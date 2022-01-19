@@ -11,6 +11,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      beforeInit: "macros.js"
 ---
 
 
@@ -164,6 +165,44 @@ class: center middle inverse
   * True-voicing vs aspirating languages is not enough.
 
 * Voicing as a comparative concept.
+
+---
+
+# Italian and Polish: articulatory data
+
+* Ultrasound Tongue Imaging (<https://doi.org/10.1121/10.0000556>)
+
+* Electroglottography
+
+---
+
+# Italian and Polish: Tongue root advancement
+
+![](img/uti.png)
+
+---
+
+# Italian and Polish: Tongue root advancement
+
+.center[![:scale 60%](img/tongue-root-by-speaker.png)]
+
+---
+
+# Italian and Polish: Tongue root advancement
+
+.center[![](img/tongue-root-vowel-dur.png)]
+
+---
+
+# Italian and Polish: Tongue root advancement
+
+.center[![:scale 60%](img/tongue-root-schema.png)]
+
+---
+
+# Italian and Polish: Glottal abduction
+
+.center[![:scale 90%](img/glottal-abduction.png)]
 
 ---
 
