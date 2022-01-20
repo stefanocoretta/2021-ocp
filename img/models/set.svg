@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="527" height="264" viewBox="0 0 527 264">
+  <g fill="none" fill-rule="evenodd" transform="translate(1)">
+    <line x1="19.5" x2="489.5" y1="176.5" y2="176.5" stroke="#242B8D" stroke-linecap="square" stroke-width="2"/>
+    <line x1="504.5" x2="524.5" y1="176.5" y2="176.5" stroke="#242B8D" stroke-linecap="square" stroke-width="2"/>
+    <line x1="494.5" x2="499.5" y1="176.5" y2="176.5" stroke="#242B8D" stroke-linecap="square" stroke-width="2"/>
+    <g transform="translate(303 131)">
+      <circle cx="62.5" cy="62.5" r="62.5" fill="#2E7E2E"/>
+      <path fill="#56B157" d="M80.5006214,2.63109247 C106.24373,10.3603453 125,34.2397918 125,62.5 C125,90.7602082 106.24373,114.639655 80.5006214,122.368908 C54.7567571,114.640275 36,90.760575 36,62.5 C36,34.5405845 54.3591235,10.8691721 79.6797629,2.88337031 Z"/>
+    </g>
+    <g transform="translate(52 64)">
+      <circle cx="62.5" cy="62.5" r="62.5" fill="#175FC7"/>
+      <path fill="#54A4F3" d="M80.5006214,2.63109247 C106.24373,10.3603453 125,34.2397918 125,62.5 C125,90.7602082 106.24373,114.639655 80.5006214,122.368908 C54.7567571,114.640275 36,90.760575 36,62.5 C36,34.5405845 54.3591235,10.8691721 79.6797629,2.88337031 Z"/>
+    </g>
+    <polygon fill="#FDA509" points="105 104 105 53 135 53 88 0 45 53 71 53 71 104"/>
+    <polygon fill="#FDA509" points="426 206 426 155 456 155 409 102 366 155 392 155 392 206" transform="matrix(1 0 0 -1 0 308)"/>
+    <rect width="126" height="38" x="118.5" y="94.5" fill="#FDA509" stroke="#E85607"/>
+    <text fill="#F9F9F9" font-family="Lato-Heavy, Lato" font-size="27" font-weight="700">
+      <tspan x="134" y="124">EFFECT</tspan>
+    </text>
+    <rect width="126" height="38" x="229.5" y="187.5" fill="#FDA509" stroke="#E85607"/>
+    <text fill="#F9F9F9" font-family="Lato-Heavy, Lato" font-size="27" font-weight="700">
+      <tspan x="238" y="217">SOURCE</tspan>
+    </text>
+    <line x1="10" x2="15" y1="176.5" y2="176.5" stroke="#242B8D" stroke-linecap="square" stroke-width="2"/>
+    <line x2="5" y1="176.5" y2="176.5" stroke="#242B8D" stroke-linecap="square" stroke-width="2"/>
+    <polyline stroke="#E85607" stroke-width="3" points="292 186 292 58 332 58"/>
+    <polyline stroke="#E85607" stroke-width="3" points="154 246 154 133 194 133" transform="rotate(180 174 189.5)"/>
+    <text fill="#364851" font-family="Lato-Heavy, Lato" font-size="36" font-weight="700">
+      <tspan x="348" y="72">N</tspan>
+    </text>
+    <text fill="#364851" font-family="Lato-Heavy, Lato" font-size="36" font-weight="700">
+      <tspan x="112" y="256">Ṽ</tspan>
+    </text>
+  </g>
+</svg>

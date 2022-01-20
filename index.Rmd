@@ -1,12 +1,16 @@
 ---
 title: "Contextual variability in speech production as a source of sound change"
-subtitle: "Articulatory data as a window into the past, present and future"
+subtitle: "<br>Articulatory data as a window into the past, present and future"
 author: "Stefano Coretta"
 institute: "University of Edinburgh"
 date: "2022/01/27"
 output:
   xaringan::moon_reader:
     lib_dir: libs
+    css:
+      - default
+      - ipa-fonts.css
+      - custom.css
     nature:
       highlightStyle: github
       highlightLines: true
@@ -16,26 +20,53 @@ output:
 
 
 ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+knitr::opts_knit$set(root.dir = here::here())
 options(htmltools.dir.version = FALSE)
 ```
 
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("panelset", "tachyons"))
+```
+
+background-image: url(img/hell_gate.jpg)
+background-size: contain
+
+# .right.white[*Lasciate ogne speranza, voi ch'intrate*]
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+.white[**Leave out every *expectation*,<br>ye who enter here.**]
+
 ---
 
-# Lasciate ogne speranza, voi ch'intrate
+class: center middle inverse
 
-Leave out every *expectation*, ye who enter here.
+# CONCEPTUAL BACKGROUND
 
 ---
 
 # Weep not, my children
 
+<br>
+<br>
+
 > Weep not, my children, for today's syntax is tomorrow's morphology.
 
 .right[—Givón's slogan]
 
+--
+
 > Today's lexical phonology is yesterday's postlexical phonology and the day before yesterday's phonetics.
 
 .right[—Bermúdez-Otero]
+
+--
 
 > Today's allophonic variation can lead to tomorrow's sound change.
 
@@ -45,13 +76,13 @@ Leave out every *expectation*, ye who enter here.
 
 class: right middle inverse
 
-# Today's variability is tomorrow's<br>sound change
+## Today's variability is tomorrow's<br>sound change
 
 ---
 
 class: right middle inverse
 
-# Today's variability is tomorrow's<br>sound change, which is the day after tomorrow's variability
+## Today's variability is tomorrow's<br>sound change, which is the day after tomorrow's variability
 
 ---
 
@@ -224,13 +255,224 @@ We know very little about the inner workings of speech production and articulati
 
 .center[![:scale 90%](img/glottal-abduction.png)]
 
+---
+
+# Italian and Polish: Bringing it together
+
+.center[![:scale 80%](img/A1.png)]
 
 ---
 
+# Italian and Polish: Bringing it together
+
+.center[![:scale 80%](img/A2.png)]
+
+---
+
+# Italian and Polish: Bringing it together
+
+.center[![:scale 80%](img/A3.png)]
+
+---
+
+# Italian and Polish: Bringing it together
+
+![:scale 60%](img/B1.png)
+
+---
+
+# Italian and Polish: Bringing it together
+
+![:scale 60%](img/B2.png)
+
+---
+
+# Italian and Polish: Bringing it together
+
+![:scale 68%](img/B3.png)
+
+---
+
+# Italian and Polish: Bringing it together
+
+.center[![](img/sound-change-pathway.png)]
+
+---
 
 class: center middle inverse
 
 # VOWEL NASALISATION
+
+---
+
+# Phon(et)ological systems
+
+.center[
+![](img/drake-phonetology.jpg)
+]
+
+---
+
+# Phonologisation
+
+.panelset[
+.panel[.panel-name[Structuralism]
+.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+
+Phonologisation is the creation of a new phonemic contrast, or in other words when a contextual allophone becomes *contrastive* (i.e. a phoneme).
+
+]
+
+.tr[
+— Kiparsky 2015
+]
+
+]
+
+.panel[.panel-name[Lexical Ph]
+.bg-washed-blue.b--dark-blue.ba.bw2.br3.shadow-5.ph4.mt5[
+
+A process is phonologised when it goes from being post-lexical to being lexical.
+
+]
+
+.tr[
+— Kiparsky 1988
+]
+
+]
+
+.panel[.panel-name[Stratal OT]
+
+
+.bg-washed-yellow.b--gold.ba.bw2.br3.shadow-5.ph4.mt5[
+
+Phonologisation occurs when the constraint ordering of the phrasal domain is carried over to the word and stem domains.
+
+]
+
+.tr[
+— Kiparsky 2000, Bermúdez-Otero 2017
+]
+
+]
+
+.panel[.panel-name[Life Cycle]
+
+.bg-near-white.b--purple.ba.bw2.br3.shadow-5.ph4.mt5[
+
+Phonologisation occurs when a physio-anatomical ("mechanic") phenomenon comes under the control of the speaker/hearer and becomes part of their grammar (more specifically, part of the *phonetic module* of the grammar).
+
+]
+
+.tr[
+— Bermúdez-Otero 2007, Bermúdez-Otero 2015
+]
+
+]
+
+.panel[.panel-name[Exemplar]
+
+.bg-washed-yellow.b--orange.ba.bw2.br3.shadow-5.ph4.mt5[
+
+Every type of sound variation/alternation is "phonologised" (i.e. neuro-cognitive permanence) as soon as it is experienced by the speaker/hearer *and* stored in memory.
+
+]
+
+.tr[
+— Johnson 1997, Sóskuthy et al. 2018, Ambridge 2018, Todd et al. 2019
+]
+
+]
+
+]
+
+---
+
+class: middle center
+
+<span style="font-size:5rem;">Ṽ.green[N] > Ṽ.light-green[N] > Ṽ.light-gray[N] >  .green[Ṽ]</span>
+
+
+---
+
+class: center middle
+
+# What does the<br>.dark-green[reduction of nasals]<br>look like?
+
+---
+
+class: inverse center middle bg-black
+
+# .dark-green[nasal]<br>=<br>oral constriction<br>+<br>velum opening
+
+---
+
+class: inverse center middle bg-black
+
+# .dark-green[nasal]<br>=<br>tongue tip constriction<br>+<br>velum opening
+
+---
+
+# British and American English
+
+.bg-washed-yellow.b--orange.ba.bw2.br3.shadow-5.ph4.mt5[
+.f2[41 speakers (24 BrE, 17 AE)]
+]
+.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+.f2[*Saw **bent** about two*]
+
+.f2[*Saw **bend** about two*]
+]
+
+---
+
+# Real-time MRI
+
+.cf.ph2-ns[
+
+.fl.w-40.pa2[
+![](img/mri/mri-vid.png)
+]
+
+.fl.w-60.pa2[
+![](img/mri/vel-signal.png)
+]
+
+]
+
+---
+
+# Tongue tip and velum
+
+.center[
+![](img/gestures-lineup.png)
+]
+
+---
+
+# Tongue tip and velum
+
+.center[
+![](img/fpca/tip_velum.png)
+]
+
+
+---
+
+# Tongue tip and velum
+
+.center[
+![](img/fpca/fpca_alt.gif)
+]
+
+---
+
+# Tongue tip and velum
+
+.center[
+![:scale 80%](img/fpca/pc1_strip.png)
+]
 
 ---
 
