@@ -30,7 +30,7 @@ xaringanExtra::use_xaringan_extra(c("panelset", "tachyons"))
 ```
 
 background-image: url(img/hell_gate.jpg)
-background-size: contain
+background-size: cover
 
 # .right.white[*Lasciate ogne speranza, voi ch'intrate*]
 
@@ -76,29 +76,73 @@ class: center middle inverse
 
 class: right middle inverse
 
-## Today's variability is tomorrow's<br>sound change
+# Today's variability is tomorrow's<br>sound change
 
 ---
 
 class: right middle inverse
 
-## Today's variability is tomorrow's<br>sound change, which is the day after tomorrow's variability
+# Today's variability is tomorrow's<br>sound change, which is the day after tomorrow's variability
 
 ---
 
-# Chicken or the egg? Variability or change?
+background-image: url(img/ray-infinite.png)
+background-size: cover
 
-Infinite regress
+# .white[Chicken or the egg? Variability or change?]
 
-Feedback loops
+???
+
+* Infinite regress: ... < A < B
 
 ---
 
-# Today's snapshot
+background-image: url(img/dynamic-systems.png)
+background-size: contain
 
-* Articulatory description of variability (coarticulation).
+# .center[Dynamic systems]
 
-* Snapshot of a particular point in time.
+---
+
+# Dynamic systems
+
+<br>
+<br>
+
+* Connected and interacting elements in constant flux.
+
+* A **state** is described by a set of variables whose values change as a function of time.
+
+* Set of all possible values is the **phase space**.
+
+* **Attractors** and **basins of attraction**.
+
+* **Change = process** (bifurcation point, catastrophe, phase shift).
+
+* **Self-organising** system.
+
+---
+
+class: center middle inverse
+
+# If you look at the system in flux, you see a .green[process].
+
+# If you look at the system at a particular point, you see a .green[state].
+
+???
+
+Particle or wave? Both!
+
+---
+
+# Today's snapshot of the flux
+
+<br>
+<br>
+
+* **Snapshot** of a particular point in time (today) to capture a state from the process flux.
+
+* **Articulatory** description of variability (including coarticulation).
 
 * Based on today's variability
 
@@ -108,7 +152,36 @@ Feedback loops
 
 ---
 
-# Dynamic systems
+# tl;dr
+
+The main takeaways are:
+
+- **Variability and change are one and the same.**
+  - Variability is the state.
+  - Change is the process.
+
+- **Synchronic variability in production can illuminate our understanding of sound change.**
+
+- It does so by pointing us to areas within the phase space.
+
+---
+
+# Case studies
+
+<br>
+<br>
+
+* **Vowel duration.**
+
+  * Italian, Polish, Manchester English.
+
+* **Vowel nasalisation.**
+
+  * German, British English, American English.
+
+* **Rhinoglottophilia.**
+
+  * Nasality and glottal spread.
 
 ---
 
@@ -130,30 +203,6 @@ Feedback loops
 
 ---
 
-# tl;dr
-
-The main takeaways are:
-
-- Variability and change are one and the same:
-  - Variability is the state.
-  - Change is the process.
-
-- Synchronic variability in production can illuminate our understanding of sound change.
-
-- It does so by casting spotlights over the multidimensional space of possible sound changes.
-
----
-
-# Case studies
-
-* Vowel duration.
-
-* Vowel nasalisation.
-
-* Rhinoglottophilia.
-
----
-
 class: center middle inverse
 
 # VOWEL DURATION
@@ -162,15 +211,17 @@ class: center middle inverse
 
 # Vowel duration
 
-* Lexical contrast ("vowel length"): Skr *mana* 'spikenard' vs *māna* 'opinion'.
+* **Lexical contrast** ("vowel length")
+
+  * Skr *mana* 'spikenard' vs *māna* 'opinion'.
 
 --
 
-* Vowel quality ("intrinsic vowel duration"): higher vowels tend to be shorter than lower vowels.
+* **Vowel quality** ("intrinsic vowel duration"): higher vowels tend to be shorter than lower vowels.
 
 --
 
-* Contextual variability ("extrinsic vowel duration"):
+* **Contextual variability** ("extrinsic vowel duration"):
 
   * Prosody (stress, accent, syllabic structure, ...).
   * Consonant manner of articulation.
@@ -181,9 +232,16 @@ class: center middle inverse
 
 # Vowel duration and consonant phonation
 
+<br>
+<br>
+
 * Vowels tend to be shorter when followed by "voiceless" consonants and longer when followed by "voiced" consonants.
 
+--
+
 * Vowels tend to shorter when followed by unaspirated consonants and longer when followed by aspirated consonants.
+
+--
 
 * Vowels followed by ejective consonants have a duration that is between that of voiceless and that of voiced consonants.
 
@@ -191,23 +249,31 @@ class: center middle inverse
 
 # Interim housekeeping
 
-* Many two-way phonation contrasts are described as "voicing".
+<br>
+<br>
+
+* Many **two-way phonation contrasts** are described as "voicing".
 
   * True-voicing vs aspirating languages is not enough.
 
-* Voicing as a comparative concept.
+* Voicing as a **comparative concept.**
 
 ---
 
 # Little did we know
 
-We know very little about the inner workings of speech production and articulation (motor control).
+<br>
+<br>
 
-* Exploratory study of articulatory aspects of VC sequences in Italian and Polish.
+* We know very little about the inner workings of speech production and articulation (motor control).
 
-* Ultrasound Tongue Imaging.
+* Exploratory study of **articulatory aspects of VC sequences** in Italian, Polish and English.
 
-* Electroglottography.
+  * Ultrasound Tongue Imaging (Italian and Polish).
+
+  * Electroglottography (Italian and Polish).
+
+  * Acoustics (all).
 
 ---
 
@@ -215,15 +281,11 @@ We know very little about the inner workings of speech production and articulati
 
 * Aerodynamic Voicing Constraint.
 
-* Tongue Root Advancement to overcome increased intra-oral pressure.
+  * **Tongue Root Advancement** to overcome increased intra-oral pressure.
 
----
+* **Glottal spread** for absence of voicing (voicelessness).
 
-# Italian and Polish: articulatory data
-
-* Ultrasound Tongue Imaging (<https://doi.org/10.1121/10.0000556>)
-
-* Electroglottography
+* **Word-level gestural phasing**.
 
 ---
 
@@ -247,7 +309,7 @@ We know very little about the inner workings of speech production and articulati
 
 # Italian and Polish: Tongue root advancement
 
-.center[![:scale 60%](img/tongue-root-schema.png)]
+.center[![:scale 50%](img/tongue-root-schema.png)]
 
 ---
 
@@ -257,45 +319,65 @@ We know very little about the inner workings of speech production and articulati
 
 ---
 
-# Italian and Polish: Bringing it together
+# Temporal stability
+
+.center[![:scale 90%](img/rel-rel-pata.png)]
+
+---
+
+# Temporal stability
+
+.center[![:scale 90%](img/rel-rel-pada.png)]
+
+---
+
+# Temporal stability
+
+.center[![:scale 60%](img/rel-rel.png)]
+
+---
+
+# Bringing it together
 
 .center[![:scale 80%](img/A1.png)]
 
 ---
 
-# Italian and Polish: Bringing it together
+# Bringing it together
 
 .center[![:scale 80%](img/A2.png)]
 
 ---
 
-# Italian and Polish: Bringing it together
+# Bringing it together
 
 .center[![:scale 80%](img/A3.png)]
 
 ---
 
-# Italian and Polish: Bringing it together
+# Bringing it together
 
 ![:scale 60%](img/B1.png)
 
 ---
 
-# Italian and Polish: Bringing it together
+# Bringing it together
 
 ![:scale 60%](img/B2.png)
 
 ---
 
-# Italian and Polish: Bringing it together
+# Bringing it together
 
 ![:scale 68%](img/B3.png)
 
 ---
 
-# Italian and Polish: Bringing it together
+# Bringing it together
 
-.center[![](img/sound-change-pathway.png)]
+<br>
+
+.center[![:scale 110%](img/sound-change-pathway.png)]
 
 ---
 
@@ -414,20 +496,9 @@ class: inverse center middle bg-black
 
 ---
 
-# British and American English
-
-.bg-washed-yellow.b--orange.ba.bw2.br3.shadow-5.ph4.mt5[
-.f2[41 speakers (24 BrE, 17 AE)]
-]
-.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
-.f2[*Saw **bent** about two*]
-
-.f2[*Saw **bend** about two*]
-]
-
----
-
 # Real-time MRI
+
+<br>
 
 .cf.ph2-ns[
 
@@ -445,6 +516,8 @@ class: inverse center middle bg-black
 
 # Tongue tip and velum
 
+<br>
+
 .center[
 ![](img/gestures-lineup.png)
 ]
@@ -461,6 +534,8 @@ class: inverse center middle bg-black
 ---
 
 # Tongue tip and velum
+
+<br>
 
 .center[
 ![](img/fpca/fpca_alt.gif)
