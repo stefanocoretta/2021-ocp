@@ -1,6 +1,6 @@
 ---
-title: "Contextual variability in speech production as a source of sound change"
-subtitle: "<br>Articulatory data as a window into the past"
+title: "Today's coarticulation is tomorrow's sound change"
+subtitle: "<br>Insights from dynamic articulatory data"
 author: "Stefano Coretta"
 institute: "University of Edinburgh"
 date: "2022/01/27"
@@ -29,6 +29,37 @@ xaringanExtra::use_xaringan_extra(c("panelset", "tachyons"))
 class: center middle inverse
 
 # Background
+
+---
+
+# Coarticulation and sound change
+
+* Coarticulation is a known factor in the development of sound change.
+
+--
+
+* Speech is a complex system of finely coordinated movements that unfold in time.
+
+--
+
+* What can dynamic articulatory data tells us about sound change?
+
+---
+
+# Three case studies
+
+* Tongue root position and timing of oral closure in VC sequences.
+
+* Glottal spread and timing of oral closure in VC sequences.
+
+* Coordination of velum and tongue tip in VNC sequences.
+
+
+
+
+
+
+
 
 ---
 
@@ -94,6 +125,13 @@ background-size: contain
 # Italian and Polish: Tongue root advancement
 
 .center[![:scale 50%](img/tongue-root-schema.png)]
+
+
+
+
+
+
+
 
 ---
 
