@@ -104,29 +104,35 @@ background-size: contain
 
 ---
 
-# Italian and Polish: Tongue root advancement
+# Ultrasound tongue imaging (UTI)
 
 ![](img/uti.png)
 
 ---
 
-# Italian and Polish: Tongue root advancement
+# Tongue root movement within the vowel
 
-.center[![:scale 60%](img/tongue-root-by-speaker.png)]
+.center[![:scale 90%](img/tongue-root-vowel.png)]
 
 ---
 
-# Italian and Polish: Tongue root advancement
+# Tongue root position and vowel duration
 
 .center[![](img/tongue-root-vowel-dur.png)]
 
 ---
 
-# Italian and Polish: Tongue root advancement
+# From synchrony to diachrony
 
-.center[![:scale 50%](img/tongue-root-schema.png)]
+.pull-left[
+![](img/root-duration-syn.png)
+]
 
+--
 
+.pull-right[
+![](img/root-duration-dia.png)
+]
 
 
 
