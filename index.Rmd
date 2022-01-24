@@ -134,7 +134,15 @@ background-size: contain
 ![](img/root-duration-dia.png)
 ]
 
+---
 
+# Afterthoughts
+
+- Findings are in line with previous work on tongue root (Kent & Moll 1969; Perkell 1969; Westbury 1983; Ahn 2018; Vazquez-Alvarez & Hewlett 2007).
+
+- Later closure onset has double advantage:
+  1. A greater degree of tongue root advancement is achieved at vowel offset/closure onset.
+  2. The stop closure is shorter.
 
 
 
@@ -145,7 +153,7 @@ class: center middle inverse
 
 # Case study 2
 
-## Italian and Polish: Voicelessness and glottal spread
+## Italian and Polish: Voicelessness and glottal abduction
 
 ---
 
@@ -169,11 +177,24 @@ background-size: contain
 
 ---
 
-# Italian and Polish: Glottal abduction
+# Glottal abduction within the vowel
 
 .center[![:scale 90%](img/glottal-abduction.png)]
 
 ---
 
-class: center middle inverse
+# From synchony to diachrony
 
+.pull-left[
+![](img/spread-duration-syn.png)
+]
+
+--
+
+.pull-right[
+![](img/spread-duration-dia.png)
+]
+
+---
+
+# Afterthoughts
