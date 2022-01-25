@@ -244,7 +244,7 @@ background-size: contain
 
 .pull-right[
 
-**Prehemption of preaspiration emergence** .f6[(Lisker 1974)]
+**Preemption of preaspiration emergence** .f6[(Lisker 1974)]
 
 ![](img/spread-duration-dia-2.png)
 ]
